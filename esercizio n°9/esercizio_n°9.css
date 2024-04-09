@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    padding-top: 50px;
+}
+
+div{
+    width: 600px;
+    height: 500px;
+    margin: auto;
+    background-color: khaki;
+}
+
+#img_musica{
+    width: 150px;
+    height: 150px;
+    padding-left: 227px;
+    padding-top: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-top: 15px;
+}
+
+#testo1{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    font-weight: bold;
+}
+
+#testo2{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 17px;
+    font-weight: bold;
+}
+
+#testo3{
+    padding-left: 15px;
+    padding-top: 17px;
+    font-weight: bold;
+}
+
+ul{
+    padding-left: 53px;
+    padding-top: 12px;
+    font-weight: bold;
+}
+
+li{
+    padding-top: 10px;
+}
